@@ -104,337 +104,337 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_0
+      name: girl_walk_up_left_1
       rect:
         serializedVersion: 2
         x: 0
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6688a3fe2687d481599ccd40d5f4d670
-      internalID: -858418072
+      spriteID: 383e9e81b5f864630a68737399c21915
+      internalID: -280540059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_1
+      name: girl_walk_up_1
       rect:
         serializedVersion: 2
         x: 32
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2a458140b6d04bef889e7438d0c58af
-      internalID: -975612171
+      spriteID: a1e06c7e24dbb4ba3ad1bc872bbc678f
+      internalID: 731547621
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_2
+      name: girl_walk_up_right_1
       rect:
         serializedVersion: 2
         x: 64
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53e07b3a8819c4107bb8149d9771b24f
-      internalID: 1431130195
+      spriteID: 469b85daec96e41a3931b995978fd46c
+      internalID: -1212803980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_3
+      name: girl_walk_up_left_2
       rect:
         serializedVersion: 2
         x: 96
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5eb66c07a2724e1994cb25870061318
-      internalID: -536715372
+      spriteID: 1ec1cea7edc8d4146a2707593f43d707
+      internalID: -1590117490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_4
+      name: girl_walk_up_2
       rect:
         serializedVersion: 2
         x: 128
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1966258c226d94fffa9117b7a295c5ae
-      internalID: -2067694074
+      spriteID: f5fc507b4e6b64f8d80d7e5445446c81
+      internalID: 1454710746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_5
+      name: girl_walk_up_right_2
       rect:
         serializedVersion: 2
         x: 160
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c30957794f84642be85e5cfc6c946368
-      internalID: 2041765848
+      spriteID: 74c85ae96050f40b38aa9ef0bd3f7202
+      internalID: -842969623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_6
+      name: girl_walk_left_1
       rect:
         serializedVersion: 2
         x: 0
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0ad8eee67df348e8bb9618a100865d6
-      internalID: 1826357614
+      spriteID: 61276d8142913452ea8e88321fec5960
+      internalID: 1964050013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_7
+      name: girl_walk_right_1
       rect:
         serializedVersion: 2
         x: 64
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 704e43c0cc6ef4e019eb729ae66a5de3
-      internalID: -2127020900
+      spriteID: 1039c97acb7fb4b3893509fcf369ab04
+      internalID: 1875690398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_8
+      name: girl_walk_left_2
       rect:
         serializedVersion: 2
         x: 96
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 565ee12bf67124ba2b26868d244c732a
-      internalID: -232222026
+      spriteID: fed9fc0bdc0264d91bbe7c053d86f7ba
+      internalID: -206909784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_9
+      name: girl_walk_right_2
       rect:
         serializedVersion: 2
         x: 160
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 565b8f71bddd6489e9c78298db9a5058
-      internalID: -736956927
+      spriteID: 8f9640fe547a84908bf1f3e95e216dca
+      internalID: 719660648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_10
+      name: girl_walk_down_left_1
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7dce8892e848c4b7fb3df6e15fed8d07
-      internalID: -806594829
+      spriteID: 1b01b741f33694d2b8a4e4b9a0290855
+      internalID: 709376791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_11
+      name: girl_walk_down_1
       rect:
         serializedVersion: 2
         x: 32
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5d35cc3558824ba0a31dd73397f3ba6
-      internalID: 1512915305
+      spriteID: c7789fa8411ad46c79561ad666206723
+      internalID: 1551435717
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_12
+      name: girl_walk_down_right_1
       rect:
         serializedVersion: 2
         x: 64
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9872bd03363964aa8b9c119580027f78
-      internalID: -949519258
+      spriteID: 27f40874d273d4160ab0397875887633
+      internalID: 1993884936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_13
+      name: girl_walk_down_left_2
       rect:
         serializedVersion: 2
         x: 96
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ea6c421c139d4ed484f707f5c59aa6d
-      internalID: 1176965024
+      spriteID: 01ced6f8f26c74ff8a9d642def8126a0
+      internalID: 944658273
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_14
+      name: girl_walk_down_2
       rect:
         serializedVersion: 2
         x: 128
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 657d8fe3757204d91b52dff6772f75b2
-      internalID: 412110851
+      spriteID: d4e8c23db201044f8b52d2b21d3c11a7
+      internalID: -647154773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Walk_15
+      name: girl_walk_down_right_2
       rect:
         serializedVersion: 2
         x: 160
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5699975e428c42629a2bceffe3f4e77
-      internalID: 503880876
+      spriteID: 56f327cf6fd504745b064fbd8256e10c
+      internalID: -1047853842
       vertices: []
       indices: 
       edges: []
@@ -450,22 +450,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Character1_Turnaround-Walk_14: 412110851
-      Character1_Turnaround-Walk_7: -2127020900
-      Character1_Turnaround-Walk_5: 2041765848
-      Character1_Turnaround-Walk_8: -232222026
-      Character1_Turnaround-Walk_13: 1176965024
-      Character1_Turnaround-Walk_10: -806594829
-      Character1_Turnaround-Walk_4: -2067694074
-      Character1_Turnaround-Walk_2: 1431130195
-      Character1_Turnaround-Walk_6: 1826357614
-      Character1_Turnaround-Walk_1: -975612171
-      Character1_Turnaround-Walk_11: 1512915305
-      Character1_Turnaround-Walk_9: -736956927
-      Character1_Turnaround-Walk_0: -858418072
-      Character1_Turnaround-Walk_15: 503880876
-      Character1_Turnaround-Walk_3: -536715372
-      Character1_Turnaround-Walk_12: -949519258
+      girl_walk_up_right_2: -842969623
+      girl_walk_down_left_2: 944658273
+      girl_walk_up_2: 1454710746
+      girl_walk_up_left_2: -1590117490
+      girl_walk_down_right_2: -1047853842
+      girl_walk_left_1: 1964050013
+      girl_walk_right_2: 719660648
+      girl_walk_up_right_1: -1212803980
+      girl_walk_left_2: -206909784
+      girl_walk_down_left_1: 709376791
+      girl_walk_down_2: -647154773
+      girl_walk_down_1: 1551435717
+      girl_walk_up_left_1: -280540059
+      girl_walk_up_1: 731547621
+      girl_walk_down_right_1: 1993884936
+      girl_walk_right_1: 1875690398
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
