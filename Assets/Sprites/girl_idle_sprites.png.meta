@@ -104,169 +104,169 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Character1_Turnaround-Idle_0
+      name: girl_idle_up_left
       rect:
         serializedVersion: 2
         x: 0
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37a7deef6e0794f5abba4b8e5fdd0138
-      internalID: -1748496274
+      spriteID: cdd4020c784bb483db4da29a26ddf0bb
+      internalID: -468523000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Idle_1
+      name: girl_idle_up
       rect:
         serializedVersion: 2
         x: 32
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50da0dabf64e240e7aa839e2be24f0c0
-      internalID: 2131029206
+      spriteID: 4900fd7b9b7b742bdb2ee6f17fdc4082
+      internalID: 547968035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Idle_2
+      name: girl_idle_up_right
       rect:
         serializedVersion: 2
         x: 64
         y: 64
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c58202522ed9f4f6da9672cb82c9be96
-      internalID: 332218167
+      spriteID: d6c81425afd194528a173875dff0e53e
+      internalID: -454271474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Idle_3
+      name: girl_idle_left
       rect:
         serializedVersion: 2
         x: 0
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ba180f80c8d043cfa8ec646e0b578ea
-      internalID: 701711408
+      spriteID: 6c2e0f26955cd4b7184b9147f7e1d081
+      internalID: -2118465507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Idle_4
+      name: girl_idle_right
       rect:
         serializedVersion: 2
         x: 64
         y: 32
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d59fa5fe704654e7485cf535fb13e5f1
-      internalID: -1113955707
+      spriteID: d6f47860467164b4cb253c3dd2be2a40
+      internalID: -666656356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Idle_5
+      name: girl_idle_down_left
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d2d36c5d6dd44948a7b85ee791c4877
-      internalID: -182466459
+      spriteID: df67aed2b9de840c3a7fa43cddbb4a47
+      internalID: 1961430136
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Idle_6
+      name: girl_idle_down
       rect:
         serializedVersion: 2
         x: 32
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22718ada981a3427ab018ed45b1f67d2
-      internalID: -705618692
+      spriteID: 8abc2022712d94ab58a562b24cf80b85
+      internalID: 206055642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Character1_Turnaround-Idle_7
+      name: girl_idle_down_right
       rect:
         serializedVersion: 2
         x: 64
         y: 0
         width: 32
         height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6da45e6978d4b42608c5849250086001
-      internalID: -875500476
+      spriteID: 54ea14ee540774e759a6df040027adbd
+      internalID: -749827347
       vertices: []
       indices: 
       edges: []
@@ -282,14 +282,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Character1_Turnaround-Idle_3: 701711408
-      Character1_Turnaround-Idle_4: -1113955707
-      Character1_Turnaround-Idle_5: -182466459
-      Character1_Turnaround-Idle_1: 2131029206
-      Character1_Turnaround-Idle_6: -705618692
-      Character1_Turnaround-Idle_7: -875500476
-      Character1_Turnaround-Idle_0: -1748496274
-      Character1_Turnaround-Idle_2: 332218167
+      girl_idle_down: 206055642
+      girl_idle_up: 547968035
+      girl_idle_left: -2118465507
+      girl_idle_right: -666656356
+      girl_idle_down_left: 1961430136
+      girl_idle_up_left: -468523000
+      girl_idle_up_right: -454271474
+      girl_idle_down_right: -749827347
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
